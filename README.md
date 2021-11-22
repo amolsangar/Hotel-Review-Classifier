@@ -13,3 +13,5 @@
 - The last step is to calculate posterior probability which is simply multiplying likelihood and prior probability. Using log, we can do the same multiplication as - log(A*B) = logA + logB.
 
 - Finally, the program cleans the input test reviews the same way as the training data and predicts the class output.
+
+### Classification accuracy = 85.50%
